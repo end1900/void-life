@@ -1,4 +1,4 @@
-# void-life-concept
+# Void Life (WIP)
 "Void Life" is an upcoming product by Void Pulsar (https://github.com/VoidPulsarr).
 Connecting lovers one stroke at a time!
 So far the website has started development.
