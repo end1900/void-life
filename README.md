@@ -1,5 +1,5 @@
 # void-life-concept
-"Void Life" Upcoming product by Void Pulsar.
+"Void Life" is an upcoming product by Void Pulsar (https://github.com/VoidPulsarr).
 Connecting lovers one stroke at a time!
 So far the website has started development.
 Feel free to contact me if there is any suggestions to add
